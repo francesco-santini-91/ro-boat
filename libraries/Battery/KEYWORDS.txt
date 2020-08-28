@@ -1,0 +1,7 @@
+Battery	KEYWORD1	Battery
+getVoltage	KEYWORD2
+isConnected	KEYWORD2
+isCharged	KEYWORD2
+isTooLow	KEYWORD2
+isTooCharged	KEYWORD2
+getNumber	KEYWORD2

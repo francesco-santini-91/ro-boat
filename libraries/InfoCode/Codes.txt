@@ -1,0 +1,12 @@
+$BATT$5?08.07?1?1?1?1#
+Battery - Number - Voltage - connected - charged - tooLow - tooCharged
+
+$SOLP$5?11.24&1?1#
+SolarPanel - Number - Voltage - Active - Connected
+
+$ENGN$2?124?1#
+Engine - Number - Speed - Direction - State
+
+$GPSS$2234.43?3621.34?0?020520?134521#
+GPS - Xcoord - Ycoord - Altit - Date - Time
+

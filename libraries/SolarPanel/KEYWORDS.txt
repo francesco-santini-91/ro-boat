@@ -1,0 +1,6 @@
+SolarPanel	KEYWORD1	SolarPanel
+getVoltage	KEYWORD2
+isActive	KEYWORD2
+connect	KEYWORD2
+disconnect	KEYWORD2
+getNumber	KEYWORD2
